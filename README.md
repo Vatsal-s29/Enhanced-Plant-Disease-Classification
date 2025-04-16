@@ -1,4 +1,4 @@
-# 🌿 SmartCrop Diagnoser: Lightweight and Interpretable Plant Disease Classification
+# 🌿 AgriCure: Lightweight and Interpretable Plant Disease Classification
 
 A state-of-the-art plant disease classification system that combines **transfer learning**, **ensemble learning**, and **explainable AI (XAI)** to deliver **highly accurate and efficient predictions**, tailored for **IoT devices** and **edge computing** environments.
 
@@ -53,11 +53,6 @@ Traditional deep learning models are often black-box and computationally expensi
 
 Grad-CAM is used to highlight which parts of the plant leaf the model is focusing on when making predictions.
 
-<p align="center">
-  <img src="path_to_sample_gradcam_image_1.png" width="300"/>
-  <img src="path_to_sample_gradcam_image_2.png" width="300"/>
-</p>
-
 ---
 
 ## 🌐 Real-world Applications
@@ -66,7 +61,4 @@ Grad-CAM is used to highlight which parts of the plant leaf the model is focusin
 - Mobile-based disease detection for farmers
 - Edge AI in drones and agricultural sensors
 
----
-
-## 📁 Project Structure
 
